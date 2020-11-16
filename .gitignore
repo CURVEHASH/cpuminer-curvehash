@@ -47,5 +47,3 @@ res/cpuminer.aps
 res/RC*
 sign/
 sign.sh
-
-compat/curl-for-windows/
